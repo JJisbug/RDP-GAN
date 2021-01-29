@@ -1,0 +1,4 @@
+detect_loss:
+[0.5121265291318678]
+detect_acc:
+[tensor(1599.2500, device='cuda:0')]
